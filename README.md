@@ -3,6 +3,8 @@
 
 # Cangaroo
 
+[![Join the chat at https://gitter.im/nebulab/cangaroo](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nebulab/cangaroo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Cangaroo helps developers integrating their apps with any service.
 
 ## The whole story
